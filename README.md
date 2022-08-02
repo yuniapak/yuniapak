@@ -1,5 +1,10 @@
 ### Hi there 👋 
 
+ ##### I'm studing at GA and working on becoming a software engineer.
+ ##### Currently working on making a gardening app that will help you to organise your garden 🌱
+
+
+
 <!--
 **yuniapak/yuniapak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
